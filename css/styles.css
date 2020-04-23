@@ -95,17 +95,17 @@ a:active {
 }
 
 .bgGradiente{
-  background: linear-gradient(to bottom, #B0C8EC 0%, #00c8ec 100%);
+  background: linear-gradient(to bottom, #B0e8fC 0%, #00c8ec 100%);
   min-height: 500px;
 }
 
 .bgGradienteInverso{
-  background: linear-gradient(to top, #B0C8EC 0%, #00c8ec 100%);
+  background: linear-gradient(to top, #B0e8fC 0%, #00c8ec 100%);
   min-height: 500px;
 }
 
 .blueBg{
-  background-color: #b0c8ec;
+  background-color: #b0e8fc;
 }
 
 .full{
