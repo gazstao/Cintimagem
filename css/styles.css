@@ -7,9 +7,18 @@ body {
   display:grid;
 }
 
+h1{
+  font-size: 2rem; 
+}
+
 a{
   background-color: transparent;
   text-decoration: none;
+}
+
+p{
+  vertical-align: center;
+  margin: auto;
 }
 
 a:link {
@@ -95,12 +104,16 @@ a:active {
 }
 
 .bgGradiente{
-  background: linear-gradient(to bottom, #B0e8fC 0%, #00c8ec 100%);
+  background: linear-gradient(to bottom, #B0e8fC 0%, #B0e8fC 90%, #00c8ec 100%);
   min-height: 500px;
 }
 
+.rightTab{
+  padding-right: 10px;
+}
+
 .bgGradienteInverso{
-  background: linear-gradient(to top, #B0e8fC 0%, #00c8ec 100%);
+  background: linear-gradient(to top, #B0e8fC 0%, #00c8ec 10%, #00c8ec 100%);
   min-height: 500px;
 }
 
