@@ -13,16 +13,16 @@ a{
 }
 
 a:link {
-  color: blue;
+  color: black;
   padding: 0 10px;
 }
 
 a:visited {
-  color: #404022;
+  color: grey;
 }
 
 a:hover {
-  color: red;
+  color: black;
   border-style: solid;
   border-radius:8px;
   border-width:thin;
@@ -36,6 +36,14 @@ a:active {
   margin: auto;
   border-radius: 8px;
   max-width:200px;
+  width: auto;
+  height: auto;
+}
+
+.logoGrande {
+  margin: 3rem auto;
+  border-radius: 15px;
+  max-width:600px;
   width: auto;
   height: auto;
 }
@@ -88,4 +96,17 @@ a:active {
 .bgGradiente{
   background: linear-gradient(to bottom, #B0C8EC 0%, #00c8ec 100%);
   min-height: 500px;
+}
+
+.bgGradienteInverso{
+  background: linear-gradient(to top, #B0C8EC 0%, #00c8ec 100%);
+  min-height: 500px;
+}
+
+.blueBg{
+  background-color: #b0c8ec;
+}
+
+.full{
+  min-height: 1024px;
 }
