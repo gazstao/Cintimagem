@@ -33,7 +33,7 @@ a:active {
 }
 
 .logo {
-  margin: 0 3rem 0 0;
+  margin: auto;
   border-radius: 8px;
   max-width:200px;
   width: auto;
