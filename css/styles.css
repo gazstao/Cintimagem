@@ -58,3 +58,7 @@ a:active {
   max-height: 400px;
   display: block;
 }
+
+.spaced{
+  margin: 1rem auto;
+}
