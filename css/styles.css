@@ -109,6 +109,7 @@ a:active {
 
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
+  text-align: justify;
   padding: 10px;
   display: none;
   position: absolute;
