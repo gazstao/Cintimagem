@@ -175,3 +175,12 @@ a:active {
 .end{
   font-size: .8rem;
 }
+
+.whatsapp {
+    color: #4FCE5D;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    padding: 10px;
+    z-index: 10000000;
+}
