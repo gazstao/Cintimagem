@@ -27,6 +27,15 @@ p{
   margin: 2% 15% 5% 15%;
 }
 
+.ctc{
+  padding: 0 3px;
+  background-color: #DDDDDD;
+  border-radius: 5px;
+}
+
+.ctc:hover{
+  background-color: darkgrey;
+}
 
 h1 {
   font-size: 1.5rem;
