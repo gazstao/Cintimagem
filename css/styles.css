@@ -171,3 +171,7 @@ a:active {
 .medium{
   min-width:300px;
 }
+
+.end{
+  font-size: .8rem;
+}
