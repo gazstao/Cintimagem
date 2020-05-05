@@ -6,6 +6,7 @@ body {
   vertical-align: middle;
   text-align: center;
   display:grid;
+  color: #1d2285;
 }
 
 td{
@@ -53,23 +54,23 @@ a{
 }
 
 a:link {
-  color: black;
+  color: #1d2285;
   padding: 0 10px;
 }
 
 a:visited {
-  color: black;
+  color: #1d2285;
 }
 
 a:hover {
   font-size: 16px;
   border: none;
   border-radius: 10px;
-  color: black;
+  color: #1d2285;
 }
 
 a:active {
-  color: darkblue;
+  color: #1d2285;
 }
 
 .logo{
@@ -118,7 +119,7 @@ a:active {
 /* Dropdown Button */
 .dropbtn {
   background-color: #ECECEC;
-  color: black;
+  color: #1d2285;
   padding: 5px 15px;
   font-size: 16px;
   border: none;
@@ -131,6 +132,7 @@ a:active {
   text-align: justify;
   position: relative;
   display: inline-block;
+  color: #1d2285;
 }
 
 /* Dropdown Content (Hidden by Default) */
@@ -145,11 +147,12 @@ a:active {
   border-radius: 10px;
   text-align: left;
   min-width: 200px;
+  color:#1d2285;
 }
 
 /* Links inside the dropdown */
 .dropdown-content a {
-  color: black;
+  color: #1d2285;
   padding: 6px 16px;
   text-decoration: none;
   display: block;
